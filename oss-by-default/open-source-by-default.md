@@ -349,15 +349,27 @@
 
 ---
 
+![inline](https://raw.githubusercontent.com/steam/presentations/master/oss-by-default/images/no-linked-in.jpg)
+
+---
+
 # Security
 
 ^ Finding and disclosing bugs and vulnerabilities
 
 ---
 
+![inline](https://image.freepik.com/free-icon/lock-padlock-symbol-for-security-interface_318-61013.jpg)
+
+---
+
 # Access to tools
 
 ^ Much of the tooling ecosystem offers free and or discounted use of their products for open-source projects
+
+---
+
+![inline](https://crossbrowsertesting.com/design/images/github-logo.png) ![inline](https://zeroturnaround.com/wp-content/uploads/2016/03/travis-ci-logo.jpg)
 
 ---
 
@@ -377,8 +389,7 @@
 
 ![inline](http://pulse-art.com/wp-content/uploads/2014/10/artsy-logo.jpg)
 
-^ Artsy has written a ton about how they transformed the front end and mobile
-^ teams to be open source by default.
+^ Artsy has written a ton about how they transformed the front end and mobile teams to be open source by default.
 
 ---
 
@@ -396,14 +407,18 @@
 # custom built applications
 
 ^ things that are more generic and reusable more likely to develop community and have active contributions
-^ less about being plug and play for others
-^ more about transparency, educational opportunities
+
+^ less about being plug and play for others more about transparency, educational opportunities
 
 ---
 
 # 26 public repos and counting
 
-^ we have a service oriented architecture which means Ello has LOTS of applications
+^ Ello has a service oriented architecture which means Ello has LOTS of applications
+
+---
+
+![fit](https://raw.githubusercontent.com/steam/presentations/master/oss-by-default/images/github-ello.png)
 
 ---
 
@@ -459,9 +474,21 @@
 
 ---
 
+![fit](https://lh3.googleusercontent.com/bmNpKZJzYsmBTof7OMUS6p5z0flTYAqc46GsanjF0j_VAqxJDHtgoaV2u8-0WdGvDAc=h900) ![fit](https://lh3.googleusercontent.com/Fa7gj2n3_smmKudFeS6INqpdRLK_BGIL04ymT8nyHFHi0TtWtqDFtc68VaHHLv4dWwsD=h900) ![fit](https://lh3.googleusercontent.com/Wa0v-N2sluTM_n2M0oRZH0Quft6Heq3mtqrsywLVXrUScDnFCZzRH5Ok2AQx9wuGw-0=h900)
+![fit](https://lh3.googleusercontent.com/ttUKHGIGEd5nFG5hHHMSdav67DnEjf28ctJ0_KVRULHf3pSg_Xg2SpUOqNwBkg7D7AA=h900)
+![fit](https://lh3.googleusercontent.com/7kuSJK7SqcypZFZM-LQzY8IZ_RYqsz83lD8FXVaufqXOoGMQD7t4HQ4NP4mujbB-iw=h900)
+
+---
+
 # **Ello iOS**
 # Ello IFTTT
 # Notification Streams Client Ruby
+
+---
+
+![fit](http://a5.mzstatic.com/us/r30/Purple62/v4/d3/f7/04/d3f7045e-84bc-b237-09f0-6f28c1c6774a/screen696x696.jpeg) ![fit](http://a2.mzstatic.com/us/r30/Purple71/v4/c7/3e/c9/c73ec9fb-0284-2bd7-15dd-7378555af681/screen696x696.jpeg) ![fit](http://a3.mzstatic.com/us/r30/Purple71/v4/a8/8d/fb/a88dfbcb-6b8e-bb3d-5e0d-f581b686c708/screen696x696.jpeg)
+![fit](http://a4.mzstatic.com/us/r30/Purple71/v4/78/33/45/783345e2-4cfd-b57a-00fc-55b87d91eb51/screen696x696.jpeg)
+![fit](http://a1.mzstatic.com/us/r30/Purple62/v4/83/95/e3/8395e3e4-23f9-b0cd-0ef7-8734f58506ba/screen696x696.jpeg)
 
 ---
 
@@ -472,6 +499,7 @@
 # all work, both internal _**and**_ external happens in the public github repos
 
 ^ we do not work on a private copy of the repository when making a previously private repository public we leave as much of the git history intact as possible (commits, pull requests, discussion)
+
 ^ all new projects are started as public unless there is a good reason for them to be private
 
 ---
@@ -479,6 +507,7 @@
 ![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Octicons-git-pull-request.svg/2000px-Octicons-git-pull-request.svg.png)
 
 ^ pull requests that improve the product and fit our product roadmap are accepted
+
 ^ We review and discuss code via commit messages, pull request descriptions and comments
 
 ---
@@ -506,8 +535,7 @@
 
 # [fit] ![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/512px-Apache_Software_Foundation_Logo_%282016%29.svg.png)
 
-^ requires contributors sign a Contributor License Agreement, who has rights to use the code
-^ is more explicit but it is harder to administer
+^ requires contributors sign a Contributor License Agreement, who has rights to use the code is more explicit but it is harder to administer
 
 ---
 
@@ -515,6 +543,36 @@
 ## https://en.wikipedia.org/wiki/MIT_License
 
 ---
+
+# History rewriting with BFG
+
+---
+
+# **How
+
+---
+
+Two big pieces:
+1. How do you sell this to your boss/investors/co-founders/co-workers
+Team culture, Recruiting, press and attention
+
+Don't give away the keys to the castle
+
+Your value in the company is more about the running system than the legos used to build the system.
+
+Focus on protecting the things that should protected and open-source the rest.
+
+Review the chat with Orta/Ash for examples.
+
+2. How do you change the culture of your engineering team?
+
+Start by having the team contribute back to the open-source projects important to your organization. Be a good citizen.
+
+Having the team work in the open enforces that everyone on the team is following the best practices/engineering processes
+
+Doesn't have to be perfect day one.
+
+
 
 # [fit] Thank you
 
