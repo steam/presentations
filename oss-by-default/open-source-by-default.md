@@ -2,11 +2,11 @@
 
 ---
 
-# [fit] Who Am I?
+# Who Am I?
 
 ---
 
-# [fit] Sean Dougherty
+# Sean Dougherty
 
 ---
 
@@ -14,7 +14,7 @@
 
 ---
 
-# [fit] Software Engineer
+# Software Engineer
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-# [fit] Mostly iOS apps
+# Mostly iOS apps
 
 ---
 
@@ -32,7 +32,7 @@
 
 ---
 
-# [fit] But other stuff too
+# But other stuff too
 
 ---
 
@@ -40,7 +40,7 @@
 
 ---
 
-# [fit] Sorta
+# Sorta
 
 ---
 
@@ -48,7 +48,7 @@
 
 ---
 
-# [fit] Barely
+# Barely
 
 ---
 
@@ -60,7 +60,7 @@
 
 ---
 
-# [fit] Mobile Lead at Ello
+# Mobile Lead at Ello
 
 ---
 
@@ -68,11 +68,11 @@
 
 ---
 
-# [fit] What is Ello?
+# What is Ello?
 
 ---
 
-# [fit] The Creators Network
+# The Creators Network
 
 ---
 
@@ -80,38 +80,456 @@
 
 ---
 
-# [fit] The Creators Network
+![inline](https://raw.githubusercontent.com/steam/presentations/master/oss-by-default/images/ello.co.png)
 
 ---
 
-# [fit] The Creators Network
+# Open-Source by Default
+
+1. What is Open-Source Software?
+1. Why we're open-source and why you should be too
+1. How we do it
+1. How you can do it too
 
 ---
 
-# [fit] The Creators Network
+# What is Open-Source Software?
 
 ---
 
-# [fit] The Creators Network
+> Computer software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.
+-- Wikipedia
 
 ---
 
-# [fit] The Creators Network
+# What is Open-Source By Default?
 
 ---
 
-# [fit] The Creators Network
+# Unless we have a reason __*NOT*__ to, a project is open sourced
 
 ---
 
-# [fit] The Creators Network
+# We came up with this all on our own
 
 ---
 
-# [fit] The Creators Network
+# with no help from __*anyone*__
 
 ---
 
+# I'm lying
+
+^ Programmers, governments, academics and companies have been releasing their source code since the earliest days of programming
+
+---
+
+# [fit] 1953
+
+---
+
+![inline](http://cdn.ttgtmedia.com/ITKE/cwblogs/cwdn/Grace_Hopper.jpg)
+
+^ The A-0 System, the first very first compiler developed for the UNIVAC (Universal Automatic Computer) by Grace Hopper was released with it's source code.
+
+---
+
+# [fit] 1967
+
+---
+
+![inline](http://logok.org/wp-content/uploads/2014/06/IBM-logo-blue.png)
+
+^ Airline Control System an IBM mainframe operating system was shipped with it's source code
+
+---
+
+# [fit] 1983
+
+---
+
+![inline](http://1.bp.blogspot.com/-BYmMHcsm6uc/VF-BAg8qvjI/AAAAAAAAZOg/BoyogNoQU6Y/s1600/2000px-Heckert_GNU_white.png)
+
+^ GNU project launched, free and open source operating system
+
+---
+
+# [fit] 1991
+
+---
+
+![inline](http://cdn.arstechnica.net/wp-content/uploads/2013/02/linus-eff-you-640x363.png)
+
+---
+
+![inline](https://regmedia.co.uk/2007/12/07/tux_droid_1.jpg)
+
+^ The Linux kernel, started by Linus Torvalds, was released as freely modifiable source code in 1991.
+^ In 1992 version 0.12 was released under a GNU License
+
+---
+
+# [fit] 1993
+
+---
+
+![inline](http://quantlabs.net/blog/wp-content/uploads/2016/04/freebsd.jpg)
+
+^ FreeBSD and NetBSD, open source operating systems released
+
+---
+
+# [fit] 1998
+
+---
+
+![inline](https://www.kodokangear.com/www.vindesigns_files/www.vindesigns_files/index_data/lighthouse.jpg)
+
+^ Netscape releases communicator for free, becomes the code base for Mozilla Firefox and Mozilla Thunderbird.
+
+---
+
+# Open source is everywhere
+
+---
+
+![inline](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)
+
+---
+
+![inline](http://www.perfectlyintune.com/page34/page35/files/apple-logo-0028640x4800029.jpg)
+
+---
+
+![inline](http://diylogodesigns.com/blog/wp-content/uploads/2016/04/Microsoft-Logo-PNG.png)
+
+---
+
+![inline](http://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif)
+
+---
+
+![inline](https://www.seeklogo.net/wp-content/uploads/2014/12/twitter-logo-vector-download.jpg)
+
+---
+
+![inline](https://www.seeklogo.net/wp-content/uploads/2013/11/facebook-flat-vector-logo-400x400.png)
+
+---
+
+![inline](https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png)
+
+---
+
+![inline](https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png)
+
+---
+
+![inline](https://image.freepik.com/free-vector/android-boot-logo_634639.jpg)
+
+---
+
+# lets not forget
+
+---
+
+![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Social_Network_Ello_Logo.svg/2000px-Social_Network_Ello_Logo.svg.png)
+
+---
+
+# Open Source is not a new idea
+
+---
+
+# But _**why**_ do we do it?
+
+---
+
+![inline](https://www.thedrinksbusiness.com/wordpress/wp-content/uploads/2016/07/4673684-5125271151-Andre.png)
+
+^standing on the shoulders of giants
+
+---
+
+# Ello wouldn't exist without _**lots**_ of open source projects
+
+---
+
+# the work of 1000s of people
+
+---
+
+![inline](https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png) ![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Swift_logo_with_text.svg/2000px-Swift_logo_with_text.svg.png)
+![inline](http://jexia.com/wp-content/uploads/2015/04/Integrations-GoLang-340x216.png) ![inline](https://raw.github.com/Moya/Moya/7.0.0/web/moya_logo_github.png)
+![inline](http://pulse-art.com/wp-content/uploads/2014/10/artsy-logo.jpg) ![inline](https://image.freepik.com/free-vector/android-boot-logo_634639.jpg)
+
+---
+
+![inline](https://afraaltayer.files.wordpress.com/2014/03/logo-linux.png) ![inline](https://upload.wikimedia.org/wikipedia/en/a/a4/Elixir_programming_language_logo.png)
+![inline](http://smashingboxes.com/media/W1siZiIsIjIwMTUvMTAvMjAvMTAvNDQvNTMvNjk3L1JlYWN0XzEuMC5wbmciXV0/React%201.0.png?sha=886b9b43c826ec79) ![inline](https://cdn0.iconfinder.com/data/icons/Pinterest/Pinterest_Logo.png)
+![inline](http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/05/cocoapods.png) ![inline](https://upload.wikimedia.org/wikipedia/en/thumb/9/92/SoundCloud_logo.svg/1280px-SoundCloud_logo.svg.png)
+
+---
+
+![inline](https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1280px-Redis_Logo.svg.png) ![inline](http://blog-assets.risingstack.com/2016/Apr/Node_js_database_example_PostgreSQL-1461672928728.png)
+![inline](http://boxchronicles.com/wp-content/uploads/2015/01/ruby.png) ![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Square,_Inc._logo.svg/2000px-Square,_Inc._logo.svg.png)
+![inline](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/techstacks/memcached-logo.png) ![inline](https://upload.wikimedia.org/wikipedia/commons/0/0d/Imagemagick-logo.png)
+
+---
+
+# At Ello we feel strongly about living our values
+
+---
+
+# Openness & Transparency
+
+^ From the very beginning, one of Ello’s guiding principles has been openness: we strive to maintain a spirit of transparency throughout everything we do.
+^ Its in our best interest to show our users how we build our software.
+
+---
+
+# Trust
+
+^ Working in the open lets people independently verify that our actions and words are aligned
+
+---
+
+# Makes us better engineers
+
+^ Having peers inside and outside the company review our code helps us grow as developers and as communicators
+
+---
+
+# Fun
+
+^ Collaboration and involvement with the broader community gives greater significance to the work.
+
+---
+
+# Feels good
+
+^ Having work seen by a larger group, potentially used by a larger group and discussed by a larger group feels good.
+
+---
+
+# Fosters community
+
+^ Ello is a community of creators sharing their work with the world.
+^ We build our product with the same sense of greater community.
+
+---
+
+# Helping others
+
+^ Ello is an idealistic company. We've staked our brand on an ideal and ethic of doing things differently. The experiences and hard work of many individuals outside of Ello have made Ello possible. We're excited to give back through open source. We hope others can learn from our experiences just like we have learned from others.
+
+---
+
+# Being a good citizen
+
+^ We rely so heavily on other's open-source projects. We're able to do so many things that we wouldn't be able to do without the help of the greater open-source community. We feel its critical to give back.
+
+---
+
+# [fit] :clap: :clap: :clap:
+
+---
+
+# Now, why should _**you**_ be<br>Open-Source by Default
+
+---
+
+# All of the above, _**Obviously**_
+
+---
+
+# Recruiting
+
+^ Turns out folks love working on Open-Source
+
+---
+
+# Security
+
+^ Finding and disclosing bugs and vulnerabilities
+
+---
+
+# Access to tools
+
+^ Much of the tooling ecosystem offers free and or discounted use of their products for open-source projects
+
+---
+
+# Forces best practices
+
+^ There is nothing like having all your code on display to world to keep you honest and working your hardest to have well written and well factored code.
+
+---
+
+# **How we do it**
+
+---
+
+# Our Muse
+
+---
+
+![inline](http://pulse-art.com/wp-content/uploads/2014/10/artsy-logo.jpg)
+
+^ Artsy has written a ton about how they transformed the front end and mobile
+^ teams to be open source by default.
+
+---
+
+# http://artsy.github.io
+
+^ great posts about how they moved towards Open-Source by Default
+
+---
+
+# 2 categories of code
+
+---
+
+# library & infrastructure code
+# custom built applications
+
+^ things that are more generic and reusable more likely to develop community and have active contributions
+^ less about being plug and play for others
+^ more about transparency, educational opportunities
+
+---
+
+# 26 public repos and counting
+
+^ we have a service oriented architecture which means Ello has LOTS of applications
+
+---
+
+# 15 library & infrastruction repos
+
+---
+
+# **Streams**
+# Ello Click
+# Render Service
+# Render Pipeline
+# Dotfiles
+
+---
+
+# Sightengine Ruby
+# Lettertray
+# Time Ago in Words
+# Rspec Rails Time Metadata
+# Ello Protobufs
+
+---
+
+# NCMEC Reporting
+# Kinesis Stream Reader
+# Megaphone
+# GH Warehouse
+# Mesos DNS Env
+
+---
+
+# 11 custom built application repos
+
+---
+
+# :tada: WebApp :tada:
+
+^ Today we are announcing the open-sourcing of our react based web frontend, WebApp.
+
+---
+
+# **WebApp** :tada:
+# WTF
+# Ello Notifications
+# Ello Kinesis Consumer
+
+---
+
+# **Ello Android**
+# Ello Bill of Rights
+# Ello Button
+# Notification Streams
+
+---
+
+# **Ello iOS**
+# Ello IFTTT
+# Notification Streams Client Ruby
+
+---
+
+![inline](https://crossbrowsertesting.com/design/images/github-logo.png)
+
+---
+
+# all work, both internal _**and**_ external happens in the public github repos
+
+^ we do not work on a private copy of the repository when making a previously private repository public we leave as much of the git history intact as possible (commits, pull requests, discussion)
+^ all new projects are started as public unless there is a good reason for them to be private
+
+---
+
+![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Octicons-git-pull-request.svg/2000px-Octicons-git-pull-request.svg.png)
+
+^ pull requests that improve the product and fit our product roadmap are accepted
+^ We review and discuss code via commit messages, pull request descriptions and comments
+
+---
+
+# The rules
+## https://ello.co/wtf/policies/rules/
+
+^ All participants must follow the rules
+
+---
+
+# License
+
+---
+
+# [fit] ![inline](https://ucarecdn.com/71946d9b-adad-4d6e-9130-0a480ddcc553/) ![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/512px-Apache_Software_Foundation_Logo_%282016%29.svg.png)
+
+---
+
+# [fit] ![inline](https://ucarecdn.com/71946d9b-adad-4d6e-9130-0a480ddcc553/)
+
+^ Easier to manage, does not require signing a Contributor License Agreement
+
+---
+
+# [fit] ![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/512px-Apache_Software_Foundation_Logo_%282016%29.svg.png)
+
+^ requires contributors sign a Contributor License Agreement, who has rights to use the code
+^ is more explicit but it is harder to administer
+
+---
+
+# Ello uses MIT
+## https://en.wikipedia.org/wiki/MIT_License
+
+---
+
+# [fit] Thank you
+
+---
+
+# Sean Dougherty
+## ello.co/sean
+## twitter.com/sdougherty
+## seancdougherty.com
+
+---
+
+# [fit] :metal:
+
+---
 
 Who Am I?
 Sean Dougherty
@@ -131,36 +549,7 @@ List of projects we use
 List of projects we’ve been inspired by
 
 How we do it (mechanics of working in the open)
-List projects we’ve open sourced (highlight the big ones and explain them a bit)
-Ello iOS
-Webapp
-WTF
-Ello Protobufs
-Ello Notifications
-Ello Kinesis Consumer
-Ello Android
-Ello Bill of Rights
-Ello Click
-Render Service
-Vizify
-Render Pipeline
-Dotfiles
-Sightengine Ruby
-Ello Button
-Notification Streams
-Ello ifttt
-Lettertray
-Streams Client
-Time Ago in Words
-Kinesis Stream Reader
-Notification Streams Client Ruby
-Rspec Rails Time Metadata
-Streams
-NCMEC Reporting
-Megaphone
-GH Warehouse
-Mesos DNS Env
-Vizier
+
 List of Ello articles/posts on open source
 Jay’s initial post: https://ello.co/jayzes/post/tqll-z8u8gfbdysrk6wbkg
 Sean’s iOS post: https://ello.co/sean/post/eobkyhj79p8yzol7it_1ew
