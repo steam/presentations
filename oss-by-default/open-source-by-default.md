@@ -58,6 +58,10 @@
 
 # [fit] :scream::scream::scream:
 
+^ ActionScript is the scripting language used to build Flash Applications. While relegated to the dustbin of the internet I once was a proud carrying member of the ActionScript Club.
+
+^ I'll move on.
+
 ---
 
 # Mobile Lead at Ello
@@ -97,16 +101,8 @@
 
 ---
 
-> Computer software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.
+> Computer software with its<br>source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.
 -- Wikipedia
-
----
-
-# What is Open-Source By Default?
-
----
-
-# Unless we have a reason __*NOT*__ to, a project is open sourced
 
 ---
 
@@ -140,7 +136,7 @@
 
 ![inline](http://logok.org/wp-content/uploads/2014/06/IBM-logo-blue.png)
 
-^ Airline Control System an IBM mainframe operating system was shipped with it's source code
+^ The Airline Control System an IBM mainframe operating system was shipped with it's source code.
 
 ---
 
@@ -150,7 +146,7 @@
 
 ![inline](http://1.bp.blogspot.com/-BYmMHcsm6uc/VF-BAg8qvjI/AAAAAAAAZOg/BoyogNoQU6Y/s1600/2000px-Heckert_GNU_white.png)
 
-^ GNU project launched, free and open source operating system
+^ GNU <guh noo> project launched, a free and open source operating system.
 
 ---
 
@@ -159,6 +155,8 @@
 ---
 
 ![inline](http://cdn.arstechnica.net/wp-content/uploads/2013/02/linus-eff-you-640x363.png)
+
+^ Linus Torvalds, in true form.
 
 ---
 
@@ -175,7 +173,17 @@
 
 ![inline](http://quantlabs.net/blog/wp-content/uploads/2016/04/freebsd.jpg)
 
-^ FreeBSD and NetBSD, open source operating systems released
+^  FreeBSD, OpenBSD and NetBSD, open source operating systems released in 1993 were derived from Unix. FreeBSD formed the core of Apple's OS X, introduced to Apple when Steve Jobs returned to Apple after his ex-communication and re-assembly at Apple.
+
+---
+
+# [fit] 1995
+
+---
+
+![inline](https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/489px-MySQL.svg.png)
+
+^ MySQL, the open-source relational database is released.
 
 ---
 
@@ -189,11 +197,63 @@
 
 ---
 
+# [fit] 1999
+
+---
+
+![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/512px-Apache_Software_Foundation_Logo_%282016%29.svg.png)
+
+^ The Apache Software Foundation is formed.
+
+---
+
+# [fit] 2004
+
+---
+
+![inline](http://cdn.churchm.ag/wp-content/uploads/2012/02/Firefox-620x236.png)
+
+^ The Mozilla, Firefox browser debuts.
+
+---
+
+# [fit] 2004
+
+---
+
+![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/2000px-WordPress_logo.svg.png)
+
+^ Wordpress launches.
+
+---
+
+# [fit] 2014
+
+---
+
+![inline](http://resources.workable.com/wp-content/uploads/2015/08/Microsoft-dotNET-logo.jpg)
+
+^ Microsoft open-sources dotnet, their primary developer platform.
+
+---
+
+# [fit] 2015
+
+---
+
+![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Swift_logo_with_text.svg/2000px-Swift_logo_with_text.svg.png)
+
+^ Apple, the most secretive company in tech, open-sources Swift, their new sexy programming language.
+
+---
+
 # Open source is everywhere
 
 ---
 
 ![inline](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)
+
+^ Github hosts millions of public repositories, MILLIONS
 
 ---
 
@@ -241,6 +301,15 @@
 
 ---
 
+
+# What is Open-Source By Default?
+
+---
+
+# Unless we have a reason __*NOT*__ to, a project is open sourced
+
+---
+
 # But _**why**_ do we do it?
 
 ---
@@ -284,6 +353,7 @@
 # Openness & Transparency
 
 ^ From the very beginning, one of Ello’s guiding principles has been openness: we strive to maintain a spirit of transparency throughout everything we do.
+
 ^ Its in our best interest to show our users how we build our software.
 
 ---
@@ -315,6 +385,7 @@
 # Fosters community
 
 ^ Ello is a community of creators sharing their work with the world.
+
 ^ We build our product with the same sense of greater community.
 
 ---
@@ -327,7 +398,7 @@
 
 # Being a good citizen
 
-^ We rely so heavily on other's open-source projects. We're able to do so many things that we wouldn't be able to do without the help of the greater open-source community. We feel its critical to give back.
+^ We rely heavily on other's open-source projects. We're able to do so many things that we wouldn't be able to do without the help of the greater open-source community. We feel its critical to give back.
 
 ---
 
@@ -399,6 +470,8 @@
 
 ---
 
+#
+
 # 2 categories of code
 
 ---
@@ -406,15 +479,15 @@
 # library & infrastructure code
 # custom built applications
 
-^ things that are more generic and reusable more likely to develop community and have active contributions
+^ Library & infrastruction code is code that is more generic and reusable and more likely to develop a community and have active contributions.
 
-^ less about being plug and play for others more about transparency, educational opportunities
+^ Custom build applications - code that less about being plug and play for others and more about transparency, trust and educational opportunities.
 
 ---
 
 # 26 public repos and counting
 
-^ Ello has a service oriented architecture which means Ello has LOTS of applications
+^ Ello has a service oriented architecture which means Ello has LOTS of applications.
 
 ---
 
@@ -422,7 +495,7 @@
 
 ---
 
-# 15 library & infrastruction repos
+# 15 library & infrastructure repos
 
 ---
 
@@ -502,9 +575,11 @@
 
 # all work, both internal _**and**_ external happens in the public github repos
 
-^ we do not work on a private copy of the repository when making a previously private repository public we leave as much of the git history intact as possible (commits, pull requests, discussion)
+^ We do not work on a private copy of the repository and push code to the public repository. We work directly on the public repository.
 
-^ all new projects are started as public unless there is a good reason for them to be private
+^ When making a previously private repository public we leave as much of the git history intact as possible (commits, pull requests, discussion).
+
+^ All new projects are started as public unless there is a good reason for them to be private.
 
 ---
 
@@ -515,6 +590,16 @@
 ---
 
 ![inline](https://raw.githubusercontent.com/steam/presentations/master/oss-by-default/images/bfg.png)
+
+---
+
+# Github Issues
+
+![inline](https://raw.githubusercontent.com/steam/presentations/master/oss-by-default/images/issues.png)
+
+^ We use github issues to discuss the project with non-ello github users.
+
+^ Internally we use trello and pivotal tracker for our roadmap and project story planning.
 
 ---
 
@@ -531,7 +616,7 @@
 # The rules
 ## https://ello.co/wtf/policies/rules/
 
-^ All participants must follow the rules
+^ All participants must follow the rules, including internal Ello staff.
 
 ---
 
@@ -551,7 +636,7 @@
 
 # [fit] ![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/512px-Apache_Software_Foundation_Logo_%282016%29.svg.png)
 
-^ requires contributors sign a Contributor License Agreement, who has rights to use the code is more explicit but it is harder to administer
+^ Apache 2 requires contributors sign a Contributor License Agreement, which is more explicit but it is harder to administer.
 
 ---
 
@@ -574,31 +659,81 @@
 
 # 3. Press and Attention
 
+^ Our Ello-iOS project has over 500 stars and has generated interest in Ello through several articles and on network interest. The tech world and our users love that our iOS is open-source.
+
 ---
 
-Two big pieces:
-1. How do you sell this to your boss/investors/co-founders/co-workers
-Team culture, Recruiting, press and attention
+# 4. Open-Source encourages best practices
 
-Don't give away the keys to the castle
+^ Having the team work in the open enforces that everyone on the team is following the best practices/engineering processes. There is nothing like having the team's work in full view to motivate folks to produce their best work.
 
-Your value in the company is more about the running system than the legos used to build the system.
+---
 
-Focus on protecting the things that should protected and open-source the rest.
+# Don't give it **all** away
 
-Review the chat with Orta/Ash for examples.
+^ Your value in the company is more about the running system, the users, the team you've built and the relationship with your customers or users than the bricks used to build the system.
 
-2. How do you change the culture of your engineering team?
+^ Keep the truly proprietary stuff closed source. Focus on protecting the things that should protected and open-source the rest.
 
-Start by having the team contribute back to the open-source projects important to your organization. Be a good citizen.
+---
 
-Having the team work in the open enforces that everyone on the team is following the best practices/engineering processes
+# **How do you change the culture of your engineering team?**
 
-Doesn't have to be perfect day one.
+---
 
+# Start contributing to the projects you already use
 
+^ This goes back to being a good citizen of our open-source world. If you end up fixing something in an open-source project you use. Submit a pull request. If you add features or extend an existing open-source project, make sure you submit a pull request.
 
-# [fit] Thank you
+---
+
+# Start small
+
+^ Pick a an internal project and make the repo public
+
+---
+
+# The code doesn't have to be perfect on day one.
+
+^ If you strive to be a good engineer, you're doing better than most. We're very proud of products, and our code. Well, most of it. Sure we'd like some of it to be better. But just like the rest of you we are making products for actual people to use, with actual deadlines and competing priorities. I promise you that your code will not be the first code in the wild in need of a bit of love. Head to github.com/ello if you want to see some great code, as well as some "needs improving" code.
+
+---
+
+# Thank you :fist:
+
+---
+
+# Resources
+
+---
+
+# Ello is now open source by default.
+# [fit] https://ello.co/jayzes/post/tqll-z8u8gfbdysrk6wbkg
+# ∙
+# Open Sourcing Ello's iOS app
+# [fit] https://ello.co/sean/post/eobkyhj79p8yzol7it_1ew
+
+---
+
+# Moving to OSS by Default
+# [fit] https://realm.io/news/orta-therox-moving-to-oss-by-default/
+# ∙
+# Becoming Open Source by Default
+# [fit] http://code.dblock.org/2015/02/09/becoming-open-source-by-default.html
+
+---
+
+# Ello's Github
+## https://github.com/ello
+# ∙
+# Ello Rules
+## https://ello.co/wtf/policies/rules/
+
+---
+
+# Sources
+### [fit] Open-source software: https://en.wikipedia.org/wiki/Open-source_software
+### [fit] Apache Software Foundation: https://en.wikipedia.org/wiki/Apache_Software_Foundation
 
 ---
 
@@ -612,6 +747,8 @@ Doesn't have to be perfect day one.
 # [fit] :metal:
 
 ---
+
+Review the chat with Orta/Ash for examples.
 
 Who Am I?
 Sean Dougherty
