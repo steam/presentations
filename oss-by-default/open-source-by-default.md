@@ -460,6 +460,10 @@
 
 ---
 
+![fit](https://raw.githubusercontent.com/steam/presentations/master/oss-by-default/images/ello.co2.png)
+
+---
+
 # **WebApp** :tada:
 # WTF
 # Ello Notifications
@@ -504,6 +508,18 @@
 
 ---
 
+# BFG
+
+^ we remove sensitive data in a once private repository by using BFG
+
+---
+
+^ we remove sensitive data in a once private repository by using BFG
+
+---
+
+# We accept Pull Requests!
+
 ![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Octicons-git-pull-request.svg/2000px-Octicons-git-pull-request.svg.png)
 
 ^ pull requests that improve the product and fit our product roadmap are accepted
@@ -544,11 +560,19 @@
 
 ---
 
-# History rewriting with BFG
+# **How do you sell this to your boss/investor/co-founder/co-worker?**
 
 ---
 
-# **How
+# 1. Improve team culture
+
+---
+
+# 2. Attract talent
+
+---
+
+# 3. Press and Attention
 
 ---
 
