@@ -514,7 +514,7 @@
 
 ---
 
-^ we remove sensitive data in a once private repository by using BFG
+![inline](https://raw.githubusercontent.com/steam/presentations/master/oss-by-default/images/bfg.png)
 
 ---
 
