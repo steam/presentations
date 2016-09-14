@@ -52,7 +52,7 @@
 
 ---
 
-![inline](data:image/png;base64,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)
+![inline](https://cdn.tutsplus.com/gamedev/uploads/legacy/024_howToLearnFlashAndAS3/How-To-Learn-Flash-and-AS3-For-Game-Development.png)
 
 ---
 
@@ -93,7 +93,16 @@
 1. What is Open-Source Software?
 1. Why we're open-source and why you should be too
 1. How we do it
-1. How you can do it too
+1. How to convince your company
+
+---
+
+# Open-Source by Default
+
+1. **What is Open-Source Software?**
+1. Why we're open-source and why you should be too
+1. How we do it
+1. How to convince your company
 
 ---
 
@@ -265,7 +274,7 @@
 
 ---
 
-![inline](http://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif)
+![inline](https://i.kinja-img.com/gawker-media/image/upload/s--pEKSmwzm--/c_scale,fl_progressive,q_80,w_800/1414228815325188681.jpg)
 
 ---
 
@@ -307,6 +316,17 @@
 ---
 
 # Unless we have a reason __*NOT*__ to, a project is open sourced
+
+^ Instead of looking for good candidates for open-source projects we assume open-source. If a project has a compelling reason to stay closed, we'll make an exception and keep it private.
+
+---
+
+# Open-Source by Default
+
+1. What is Open-Source Software?
+1. **Why we're open-source and why you should be too**
+1. How we do it
+1. How to convince your company
 
 ---
 
@@ -450,7 +470,30 @@
 
 ---
 
+# Open-Source by Default
+
+1. What is Open-Source Software?
+1. Why we're open-source and why you should be too
+1. **How we do it**
+1. How to convince your company
+
+---
+
 # **How we do it**
+
+^ While still relatively rare, it is becoming increasingly common to find companies moving towards an Open-Source by Default approach.
+
+---
+
+![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/18F_logo.svg/512px-18F_logo.svg.png)
+
+^ 18F, a technology company with the ambitous goal of transforming government by working with other technology companies to build better public services.
+
+---
+
+![inline](https://cdn.searchenginejournal.com/wp-content/uploads/2013/12/buffer-text-1024-white-bg.jpg)
+
+^ Buffer, a social media engagement company.
 
 ---
 
@@ -460,17 +503,29 @@
 
 ![inline](http://pulse-art.com/wp-content/uploads/2014/10/artsy-logo.jpg)
 
-^ Artsy has written a ton about how they transformed the front end and mobile teams to be open source by default.
+^ Artsy mission is to make all the world's art accessible to anyone with an Internet connection.
+
+^ They have written a ton about how they transformed the front end and mobile teams to be open source by default.
 
 ---
 
 # http://artsy.github.io
 
-^ great posts about how they moved towards Open-Source by Default
+^ Great posts about how they moved towards Open-Source by Default
 
 ---
 
-#
+# Taking the plunge
+
+^ From the very beginning we'd imagined Ello Open-Sourcing as much of our code as possible.
+
+^ Artsy's extensive blogging and trail of open-source projects were very helpful in giving us a blueprint for our own process.
+
+^ Jay, Colin and I had a great discussion with Orta and Ash at Artsy about challenges and strategies for making OSS by Default a reality.
+
+^ A major theme of their work was the internal discussions that needed to take place internally. This part of the process was surprisingly easy at Ello. Our focus on positivity and openness makes Open-Source a natural fit for us.
+
+---
 
 # 2 categories of code
 
@@ -583,9 +638,19 @@
 
 ---
 
+# What about mixed<br>private/public code?
+
+^ There are portions of our projects that we CANT open-source. We're legally obligated not to.
+
+^ Our fonts, our SSL certificates used for SSL pinning, etc. In our iOS app for example. For these cases we make sure an open-source alternative works seemlessly. Default system fonts when a non-ello staff developer builds the app.
+
+---
+
 # BFG
 
 ^ we remove sensitive data in a once private repository by using BFG
+
+^ BFG is a handy command line java application that does some git git-filter-branch magic to cleanup and re-write git history
 
 ---
 
@@ -645,15 +710,28 @@
 
 ---
 
+# Open-Source by Default
+
+1. What is Open-Source Software?
+1. Why we're open-source and why you should be too
+1. How we do it
+1. **How to convince your company**
+
+---
+
 # **How do you sell this to your boss/investor/co-founder/co-worker?**
 
 ---
 
-# 1. Improve team culture
+# 1. Improve Team Culture
+
+^ Open-Source improves team culture by empowering engineers to contribute to both the company and greater developer community.
 
 ---
 
-# 2. Attract talent
+# 2. Attract Talent
+
+^ Having your company's code available for everyone to see is a powerful advertisement for the kind of company you are. Other developers and companies will notice.
 
 ---
 
@@ -663,15 +741,21 @@
 
 ---
 
-# 4. Open-Source encourages best practices
+# 4. Best practices
 
 ^ Having the team work in the open enforces that everyone on the team is following the best practices/engineering processes. There is nothing like having the team's work in full view to motivate folks to produce their best work.
 
 ---
 
+# 5. Improve Communication
+
+^ Working in the open requires better communication. Members of the team will, be necessity, begin to communicate more clearly and thoroughly when their audience is larger than the person sitting next to them.
+
+---
+
 # Don't give it **all** away
 
-^ Your value in the company is more about the running system, the users, the team you've built and the relationship with your customers or users than the bricks used to build the system.
+^ At Ello, the value of our network is the thriving community of creators sharing their work and ideas with others. The database containing the creator's work and interactions is our core business value, not the building blocks of technology.
 
 ^ Keep the truly proprietary stuff closed source. Focus on protecting the things that should protected and open-source the rest.
 
@@ -693,9 +777,55 @@
 
 ---
 
-# The code doesn't have to be perfect on day one.
+# The code doesn't have to be<br>perfect on day one
 
 ^ If you strive to be a good engineer, you're doing better than most. We're very proud of products, and our code. Well, most of it. Sure we'd like some of it to be better. But just like the rest of you we are making products for actual people to use, with actual deadlines and competing priorities. I promise you that your code will not be the first code in the wild in need of a bit of love. Head to github.com/ello if you want to see some great code, as well as some "needs improving" code.
+
+---
+
+# Challenges/Concerns
+
+---
+
+# [fit] ![inline](https://pbs.twimg.com/media/CTTlZtlWIAEjgg9.jpg)
+
+---
+
+# Trolls & Churn
+
+^ When we first open-sourced the iOS app we had concerns about the amount of time and energy it would take to handle the trolls and unconstructive pull requests. This has largely turned out to be a non-issue.
+
+^ The activity we get on the github project is positive and helpful. We've had strangers submit pull request and ask great questions. Just the other day a user posted an issue asking about the architecture of a piece of our networking layer. To our amazement another non-ello staff member answered, correctly! We were pretty stoked.
+
+---
+
+# Motivation and consistency
+
+^ Enthusiasm for adhering to an OSS by Default approach goes up and down. Having consistent processes in place help keep the team on track.
+
+^ Little steps and a continued focus are the best way to get there. It won't happen over night. We've got a long way to go.
+
+---
+
+![inline](http://downloadwallpaperhd.com/wp-content/uploads/2013/05/Memes-Challenge-Accepted-Wallpaper-HD.jpg)
+
+---
+
+# Next Steps
+
+---
+
+# Making the apps easy to install and bootstrap
+
+^ Our API is not open-source, this poses big problems for folks wanting to build our apps. At the moment, no one outside of Ello can connect to a staging or production environment to load data.
+
+---
+
+# Open-Source outside of Engineering
+
+^ Our goal is to move more of our operations out from behind the curtain. Our WTF section is an example of this. We'd like to move further in this direction.
+
+^ Our culture and processes are great candidates for open-source.
 
 ---
 
