@@ -712,27 +712,27 @@
 
 ---
 
-# Private Code
+![inline](https://raw.githubusercontent.com/steam/presentations/master/oss-by-default/images/private.png)
 
-^ In our iOS app for example. For these cases we make sure an open-source alternative works seemlessly. Default system fonts when a non-ello staff developer builds the app.
+^ Private Code
 
----
-
-# BFG
-
-^ we remove sensitive data in a once private repository by using BFG
-
-^ BFG is a handy command line java application that does some git git-filter-branch magic to cleanup and re-write git history
+^ For these cases we make sure an open-source alternative works seemlessly. Default system fonts when a non-ello staff developer builds the app.
 
 ---
 
 ![inline](https://raw.githubusercontent.com/steam/presentations/master/oss-by-default/images/bfg.png)
 
+^ BFG
+
+^ we remove sensitive data in a once private repository by using BFG
+
+^ uses some git git-filter-branch magic to cleanup and re-write git history
+
 ---
 
-# Github Issues
-
 ![inline](https://raw.githubusercontent.com/steam/presentations/master/oss-by-default/images/issues.png)
+
+^ Github Issues
 
 ^ We use github issues to discuss the project with non-ello github users.
 
@@ -740,9 +740,9 @@
 
 ---
 
-# We accept Pull Requests!
-
 ![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Octicons-git-pull-request.svg/2000px-Octicons-git-pull-request.svg.png)
+
+^ We accept Pull Requests!
 
 ^ pull requests that improve the product and fit our product roadmap are accepted
 
