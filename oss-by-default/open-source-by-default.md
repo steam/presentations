@@ -30,6 +30,13 @@
 ![](http://a2.mzstatic.com/us/r30/Purple3/v4/6e/56/d6/6e56d600-8c6a-fd4d-29a5-8903244233d1/screen696x696.jpeg)
 ![](http://a2.mzstatic.com/us/r30/Purple49/v4/43/3f/0e/433f0e26-63b4-88d9-07a4-099afc43074d/screen696x696.jpeg)
 
+
+^ Ello
+
+^ GoSpotCheck
+
+^ SNOCRU
+
 ---
 
 # But other stuff too
@@ -58,7 +65,7 @@
 
 # [fit] :scream::scream::scream:
 
-^ ActionScript is the scripting language used to build Flash Applications. While relegated to the dustbin of the internet I once was a proud carrying member of the ActionScript Club.
+^ While relegated to the dustbin of the internet I once was a proud carrying member of the Flash ActionScript Club.
 
 ^ I'll move on.
 
@@ -85,6 +92,24 @@
 ---
 
 ![inline](https://raw.githubusercontent.com/steam/presentations/master/oss-by-default/images/ello.co.png)
+
+---
+
+# The Ello PBC Charter
+
+---
+
+1. Ello shall never make money from selling ads;
+1. Ello shall never make money from selling user data; and
+1. In the event that Ello is ever sold, the new owners will have to comply by these terms.
+
+---
+
+# Signed by each founder and investor
+
+---
+
+![inline](https://raw.githubusercontent.com/steam/presentations/master/oss-by-default/images/charter.png)
 
 ---
 
@@ -120,6 +145,10 @@
 ---
 
 # with no help from __*anyone*__
+
+---
+
+![inline](http://2.bp.blogspot.com/-YZcpmqChI1w/UlSyVdUk5GI/AAAAAAAAAP4/hsmlndP2LjQ/s1600/proud.jpg)
 
 ---
 
@@ -344,7 +373,7 @@
 
 ---
 
-# the work of 1000s of people
+# 1000s of people
 
 ---
 
@@ -366,7 +395,7 @@
 
 ---
 
-# At Ello we feel strongly about living our values
+# At Ello we feel strongly about<br>living our values
 
 ---
 
@@ -396,13 +425,19 @@
 
 ---
 
-# Feels good
+![inline](https://media.giphy.com/media/5PSPV1ucLX31u/giphy.gif)
+
+^ Collaboration and involvement with the broader community gives greater significance to the work.
+
+---
+
+# Feels Good
 
 ^ Having work seen by a larger group, potentially used by a larger group and discussed by a larger group feels good.
 
 ---
 
-# Fosters community
+# Fosters Community
 
 ^ Ello is a community of creators sharing their work with the world.
 
@@ -410,13 +445,13 @@
 
 ---
 
-# Helping others
+# Helping Others
 
 ^ Ello is an idealistic company. We've staked our brand on an ideal and ethic of doing things differently. The experiences and hard work of many individuals outside of Ello have made Ello possible. We're excited to give back through open source. We hope others can learn from our experiences just like we have learned from others.
 
 ---
 
-# Being a good citizen
+# Being a Good Citizen
 
 ^ We rely heavily on other's open-source projects. We're able to do so many things that we wouldn't be able to do without the help of the greater open-source community. We feel its critical to give back.
 
@@ -434,37 +469,39 @@
 
 ---
 
-# Recruiting
-
-^ Turns out folks love working on Open-Source
-
----
-
 ![inline](https://raw.githubusercontent.com/steam/presentations/master/oss-by-default/images/no-linked-in.jpg)
 
----
+^ Recruiting
 
-# Security
+^ Turns out folks love working on Open-Source.
 
-^ Finding and disclosing bugs and vulnerabilities
+^ It is also a competative differentiator from other companies looking for developers.
 
 ---
 
 ![inline](https://image.freepik.com/free-icon/lock-padlock-symbol-for-security-interface_318-61013.jpg)
 
+^ Security
+
+^ Finding and disclosing bugs and vulnerabilities
+
 ---
 
-# Access to tools
+![inline](http://www.clipartbest.com/cliparts/4c9/agp/4c9agpGdi.jpeg)
 
-^ Much of the tooling ecosystem offers free and or discounted use of their products for open-source projects
+^ Free
 
 ---
 
 ![inline](https://crossbrowsertesting.com/design/images/github-logo.png) ![inline](https://zeroturnaround.com/wp-content/uploads/2016/03/travis-ci-logo.jpg)
 
+^ Access to Tools
+
+^ Much of the tooling ecosystem offers free and or discounted use of their products for open-source projects
+
 ---
 
-# Forces best practices
+# Forces Best Practices
 
 ^ There is nothing like having all your code on display to world to keep you honest and working your hardest to have well written and well factored code.
 
@@ -515,7 +552,7 @@
 
 ---
 
-# Taking the plunge
+# Taking the Plunge
 
 ^ From the very beginning we'd imagined Ello Open-Sourcing as much of our code as possible.
 
@@ -531,26 +568,41 @@
 
 ---
 
-# library & infrastructure code
-# custom built applications
+![inline](https://rubygems.org/favicon.ico)
 
-^ Library & infrastruction code is code that is more generic and reusable and more likely to develop a community and have active contributions.
+^ library & infrastructure code
 
-^ Custom build applications - code that less about being plug and play for others and more about transparency, trust and educational opportunities.
+^ generic, reusable
+
+^ more likely to have contributions / develop community
 
 ---
 
-# 26 public repos and counting
+![inline](http://files.softicons.com/download/application-icons/circle-icons-by-martz90/png/512x512/appstore.png)
+
+^ custom built applications
+
+^ not plug and play
+
+^ transparency, trust, education
+
+---
+
+# [fit] 26
+
+^ 26 public repos and counting
 
 ^ Ello has a service oriented architecture which means Ello has LOTS of applications.
 
 ---
 
-![fit](https://raw.githubusercontent.com/steam/presentations/master/oss-by-default/images/github-ello.png)
+![fill](https://raw.githubusercontent.com/steam/presentations/master/oss-by-default/images/github-ello.png)
 
 ---
 
-# 15 library & infrastructure repos
+# [fit] 15
+
+^ 15 library & infrastructure repos
 
 ---
 
@@ -578,31 +630,21 @@
 
 ---
 
-# 11 custom built application repos
+# [fit] 11
 
----
-
-# :tada: WebApp :tada:
-
-^ Today we are announcing the open-sourcing of our react based web frontend, WebApp.
+^ 11 custom built application repos
 
 ---
 
 ![fit](https://raw.githubusercontent.com/steam/presentations/master/oss-by-default/images/ello.co2.png)
 
+^ Today we are announcing the open-sourcing of our react based web frontend, WebApp.
+
 ---
 
-# **WebApp** :tada:
+# :tada: **WebApp** :tada:
 # WTF
 # Ello Notifications
-# Ello Kinesis Consumer
-
----
-
-# **Ello Android**
-# Ello Bill of Rights
-# Ello Button
-# Notification Streams
 
 ---
 
@@ -610,11 +652,13 @@
 ![fit](https://lh3.googleusercontent.com/ttUKHGIGEd5nFG5hHHMSdav67DnEjf28ctJ0_KVRULHf3pSg_Xg2SpUOqNwBkg7D7AA=h900)
 ![fit](https://lh3.googleusercontent.com/7kuSJK7SqcypZFZM-LQzY8IZ_RYqsz83lD8FXVaufqXOoGMQD7t4HQ4NP4mujbB-iw=h900)
 
+^ Ello Android
+
 ---
 
-# **Ello iOS**
-# Ello IFTTT
-# Notification Streams Client Ruby
+# Ello Bill of Rights
+# Ello Button
+# Notification Streams
 
 ---
 
@@ -622,13 +666,19 @@
 ![fit](http://a4.mzstatic.com/us/r30/Purple71/v4/78/33/45/783345e2-4cfd-b57a-00fc-55b87d91eb51/screen696x696.jpeg)
 ![fit](http://a1.mzstatic.com/us/r30/Purple62/v4/83/95/e3/8395e3e4-23f9-b0cd-0ef7-8734f58506ba/screen696x696.jpeg)
 
+^ Ello iOS
+
+---
+
+# Ello IFTTT
+# Notification Streams Client Ruby
+# Ello Kinesis Consumer
+
 ---
 
 ![inline](https://crossbrowsertesting.com/design/images/github-logo.png)
 
----
-
-# all work, both internal _**and**_ external happens in the public github repos
+^ All work, both internal _**and**_ external happens in the public github repos
 
 ^ We do not work on a private copy of the repository and push code to the public repository. We work directly on the public repository.
 
@@ -642,7 +692,29 @@
 
 ^ There are portions of our projects that we CANT open-source. We're legally obligated not to.
 
-^ Our fonts, our SSL certificates used for SSL pinning, etc. In our iOS app for example. For these cases we make sure an open-source alternative works seemlessly. Default system fonts when a non-ello staff developer builds the app.
+---
+
+![inline](http://www.cdc-ccd.org/IMG/arton3847.jpg)
+
+^ Things that we use that are copyrighted
+
+---
+
+![inline](https://wanphing.files.wordpress.com/2011/05/font.png)
+
+^ Our fonts
+
+---
+
+![inline](http://tutorials.hostucan.net/wp-content/uploads/2015/08/dv_big1-580x643.png)
+
+^ SSL Pinning
+
+---
+
+# Private Code
+
+^ In our iOS app for example. For these cases we make sure an open-source alternative works seemlessly. Default system fonts when a non-ello staff developer builds the app.
 
 ---
 
@@ -678,7 +750,7 @@
 
 ---
 
-# The rules
+# The Rules
 ## https://ello.co/wtf/policies/rules/
 
 ^ All participants must follow the rules, including internal Ello staff.
@@ -725,6 +797,10 @@
 
 # 1. Improve Team Culture
 
+---
+
+# [fit] ![inline](http://www.adweek.com/files/istock-unfinished-business-ep.jpg)
+
 ^ Open-Source improves team culture by empowering engineers to contribute to both the company and greater developer community.
 
 ---
@@ -741,7 +817,7 @@
 
 ---
 
-# 4. Best practices
+# 4. Best Practices
 
 ^ Having the team work in the open enforces that everyone on the team is following the best practices/engineering processes. There is nothing like having the team's work in full view to motivate folks to produce their best work.
 
@@ -750,6 +826,12 @@
 # 5. Improve Communication
 
 ^ Working in the open requires better communication. Members of the team will, be necessity, begin to communicate more clearly and thoroughly when their audience is larger than the person sitting next to them.
+
+---
+
+# 6. Impact
+
+^ Orta at Artsy talks about the impact of open-source. His day job has (relatively) smaller impact than his open-source work on the dependency library Cocoapods. Moving from closed to open-source internally allows the scale and footprint of your work to expand to a wider audience and be more impactful than the product alone.
 
 ---
 
@@ -771,7 +853,7 @@
 
 ---
 
-# Start small
+# Start Small
 
 ^ Pick a an internal project and make the repo public
 
@@ -799,25 +881,31 @@
 
 ---
 
-# Motivation and consistency
+# Motivation & Consistency
 
 ^ Enthusiasm for adhering to an OSS by Default approach goes up and down. Having consistent processes in place help keep the team on track.
 
 ^ Little steps and a continued focus are the best way to get there. It won't happen over night. We've got a long way to go.
 
+^ Being open-source by default helps this quite a bit. It forces the new habit and makes the decision a lot easier. Should we open source this isn't a question any more.
+
 ---
 
 ![inline](http://downloadwallpaperhd.com/wp-content/uploads/2013/05/Memes-Challenge-Accepted-Wallpaper-HD.jpg)
 
----
-
-# Next Steps
+^ Vince Vaughn looking ridiculous
 
 ---
 
-# Making the apps easy to install and bootstrap
+# Next Steps for Ello
 
-^ Our API is not open-source, this poses big problems for folks wanting to build our apps. At the moment, no one outside of Ello can connect to a staging or production environment to load data.
+---
+
+# Making the apps easy to<br>install and bootstrap
+
+^ Our API is not open (yet), this poses big problems for folks wanting to build our apps. At the moment, no one outside of Ello can connect to a staging or production environment to load data.
+
+^ Our plan is to provide a sandbox for people to stay in when building our open source applications.
 
 ---
 
@@ -874,38 +962,5 @@
 
 ---
 
-# [fit] :metal:
-
----
-
-Review the chat with Orta/Ash for examples.
-
-Who Am I?
-Sean Dougherty
-Mobile Lead at Ello
-ello.co/sean
-twitter.com/sdougherty
-seancdougherty.com
-Overview of Ello
-Overview of Ello’s entry into OSS
-Announce open sourcing of Webapp
-Body
-Why we do it
-Exchange of ideas
-Good will
-Sharing with the larger community
-List of projects we use
-List of projects we’ve been inspired by
-
-How we do it (mechanics of working in the open)
-
-List of Ello articles/posts on open source
-Jay’s initial post: https://ello.co/jayzes/post/tqll-z8u8gfbdysrk6wbkg
-Sean’s iOS post: https://ello.co/sean/post/eobkyhj79p8yzol7it_1ew
-
-Guidelines/rules
-Ello was created by idealists who believe that the essential nature of all human beings is to be kind, considerate, helpful, intelligent, responsible, and respectful of others, and we want to carry that spirit with us into the open source realm. To that end, we will be enforcing the Ello rules within all of our open source projects. If you don’t follow the rules, you risk being ignored, banned, or reported for abuse.
-Ways to convince your peers and company leadership
-
-Conclusion
+# [fit] ![inline](http://i2.wp.com/www.metalinjection.net/wp-content/uploads/2015/06/metal-horn-emoji.jpg?fit=700%2C367)
 
